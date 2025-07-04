@@ -27,8 +27,8 @@
  // ★★ USER‑TWEAKABLE GLOBAL CONSTANTS ★★
  // ---------------------------------------------------------------------------
  // Window initial size (can still be resized at runtime)
-const int    INIT_WINDOW_W = 2400;
-const int    INIT_WINDOW_H = 1600;
+const int    INIT_WINDOW_W = 1600;
+const int    INIT_WINDOW_H = 900;
 
 // ---------------------------------------------------------------------------
 // Dynamic window size (updated in framebuffer‑size callback)
