@@ -1,5 +1,5 @@
 ﻿/*
- * Resolution‑independent real‑time DFT/FFT visualiser (OpenGL 2.1)
+ * Resolution‑independent real‑time DFT/FFT visualiser (OpenGL 3.0)
  * ---------------------------------------------------------------------------
  *  • Window can be resized at runtime – geometry scales automatically.
  *  • Bottom half: magnitude spectrum (|DFT|) recomputed each frame (O(N²)) and FFT using Radix-2.
